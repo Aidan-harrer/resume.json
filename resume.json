@@ -1,0 +1,92 @@
+{
+    "basics": {
+        "name": "Aidan Harrer",
+        "email": "aidan.harrer@du.edu",
+        "phone": "(303) 668-1676",
+        "summary": " Sociable and hardworking aspiring law student pursing a COmputer Science and Political science degree. I am intriged with the benifits of machine learning and automation in the political science field. I am a teamo-oriented collaborator with a strong motivation to accomplish goals.",
+        "location": {
+            "address": "5361 South Federal Cir, Apt R304",
+            "postalCode": "CO 80123",
+            "city": "Littleton",
+            "countryCode": "US",
+            "region": "Colorado"
+        }
+    },
+    "work": [
+        {
+            "name": "Starbucks Coffee Company",
+            "position": "Shift Manager",
+            "url": "https://www.starbucks.com/",
+            "startDate": "2019-05-20",
+            "endDate": "Current",
+            "summary": [
+                "Manages a team of 30 plus people.",
+                "Identifies and reconciled issues and problems to drive satisfaction with goods.",
+                "interviews and measures baristas to develop and maintain a good working environment."
+            ],
+            "highlights": [
+                "Won Wartner of the Quarter"
+            ]
+        },
+        {
+            "name": " Paxtis pizza company",
+            "position": "Bartender",
+            "startDate": "2021-05-20",
+            "endDate": "2023-05-20",
+            "summary": [
+                "Satisfied customers by topping off drinks and offering condiments, napkins",
+                "Operated POS terminals to input orders, split bills and calculate totals.",
+                "Trained new employees on restaurant procedures and plating techniques."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Denver",
+            "url": "https://www.du.edu/",
+            "area": "Plitical Science, Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2021-09-11",
+            "endDate": "Current",
+            "score": "3.6",
+            "courses": [
+                "Into to Programing 1",
+                "Into to Computer Science",
+                "Calculus 1"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "Python",
+                "JavaScript",
+                "Spanish",
+                "Excel",
+                "HTML"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ceramics",
+            "keywords": [
+                "Wheel "
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Maddison lanz",
+            "reference": "General Manager, Starbucks Coffee Company, (520) 870-3620 "
+        }
+    ]
+}
